@@ -1,0 +1,8 @@
+flask
+gunicorn
+psycopg2
+bcrypt
+flask_mail
+flask-socketio
+gevent-websocket
+eventlet 
